@@ -1,6 +1,6 @@
 {
   "build_from": {
-    "armv7": "hassioaddons/ubuntu-base-armv7:5.2.1",
+    "armv7": "hassioaddons/ubuntu-base-armv7:5.2.1"
   },
   "args": {}
 }
